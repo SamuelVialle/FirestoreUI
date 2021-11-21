@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "673493863750",
+    "project_id": "firestoreui-d7f18",
+    "storage_bucket": "firestoreui-d7f18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673493863750:android:85a03d73393c57227da947",
+        "android_client_info": {
+          "package_name": "com.example.firestoreui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673493863750-iqftoevisj101sd3cutk994crl0b2ga0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEMPihXniyuH06SwESHjXiAsL80o2GUV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673493863750-iqftoevisj101sd3cutk994crl0b2ga0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
